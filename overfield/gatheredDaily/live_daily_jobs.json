@@ -32,7 +32,7 @@
           "pool_id": 2100002,
           "pool_index": 255,
           "item_id": 5013063,
-          "item_name": "마늘생강 말쥐치찜",
+          "item_name": "쥐치 조림",
           "nyang_coin_reward": 600
         },
         {
@@ -40,7 +40,7 @@
           "pool_id": 2100002,
           "pool_index": 229,
           "item_id": 5013037,
-          "item_name": "해물 파스타",
+          "item_name": "해산물 파스타",
           "nyang_coin_reward": 600
         },
         {
@@ -48,7 +48,7 @@
           "pool_id": 2100002,
           "pool_index": 328,
           "item_id": 5013036,
-          "item_name": "갯농어 해물탕",
+          "item_name": "갯농어 국밥",
           "nyang_coin_reward": 800
         }
       ]
@@ -88,7 +88,7 @@
     "verify_status": 1,
     "login_status": 1,
     "main_status": 1,
-    "change_scene_status": 1,
+    "change_scene_status": 25,
     "change_scene_id": 1
   }
 }
