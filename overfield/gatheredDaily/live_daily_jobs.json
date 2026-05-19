@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "npcs": [
     {
       "npc_name": "아즈사",
@@ -8,17 +8,17 @@
         {
           "grid_id": 1,
           "pool_id": 2100001,
-          "pool_index": 206,
-          "item_id": 5013026,
-          "item_name": "미소 된장국",
+          "pool_index": 204,
+          "item_id": 5013019,
+          "item_name": "계란 볶음밥",
           "nyang_coin_reward": 300
         },
         {
           "grid_id": 2,
           "pool_id": 2100003,
-          "pool_index": 204,
-          "item_id": 5012005,
-          "item_name": "간장",
+          "pool_index": 205,
+          "item_id": 5012006,
+          "item_name": "요리용 맛술",
           "nyang_coin_reward": 200
         }
       ]
@@ -30,26 +30,26 @@
         {
           "grid_id": 1,
           "pool_id": 2100002,
-          "pool_index": 240,
-          "item_id": 5013048,
-          "item_name": "철갑상어 고추찜",
-          "nyang_coin_reward": 600
+          "pool_index": 147,
+          "item_id": 5013055,
+          "item_name": "무지개송어찜",
+          "nyang_coin_reward": 350
         },
         {
           "grid_id": 2,
           "pool_id": 2100002,
-          "pool_index": 210,
-          "item_id": 5013011,
-          "item_name": "송어 매운탕",
+          "pool_index": 247,
+          "item_id": 5013055,
+          "item_name": "무지개송어찜",
           "nyang_coin_reward": 600
         },
         {
           "grid_id": 3,
           "pool_id": 2100002,
-          "pool_index": 238,
-          "item_id": 5013046,
-          "item_name": "진득한 고등어죽",
-          "nyang_coin_reward": 600
+          "pool_index": 121,
+          "item_id": 5013028,
+          "item_name": "장어 덮밥",
+          "nyang_coin_reward": 350
         }
       ]
     },
@@ -60,26 +60,26 @@
         {
           "grid_id": 1,
           "pool_id": 2200001,
-          "pool_index": 110,
-          "item_id": 5033011,
-          "item_name": "손목 커버 샘플",
-          "nyang_coin_reward": 600
+          "pool_index": 311,
+          "item_id": 5033012,
+          "item_name": "팔찌 샘플",
+          "nyang_coin_reward": 1000
         },
         {
           "grid_id": 2,
           "pool_id": 2200001,
-          "pool_index": 107,
-          "item_id": 5033008,
-          "item_name": "초커 샘플",
-          "nyang_coin_reward": 600
+          "pool_index": 201,
+          "item_id": 5033002,
+          "item_name": "두건 샘플",
+          "nyang_coin_reward": 800
         },
         {
           "grid_id": 3,
           "pool_id": 2200001,
-          "pool_index": 207,
-          "item_id": 5033008,
-          "item_name": "초커 샘플",
-          "nyang_coin_reward": 800
+          "pool_index": 104,
+          "item_id": 5033005,
+          "item_name": "망토 샘플",
+          "nyang_coin_reward": 600
         }
       ]
     }
@@ -88,7 +88,7 @@
     "verify_status": 1,
     "login_status": 1,
     "main_status": 1,
-    "change_scene_status": 2,
-    "change_scene_id": 0
+    "change_scene_status": 25,
+    "change_scene_id": 1
   }
 }
