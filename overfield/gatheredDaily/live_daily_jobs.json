@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "npcs": [
     {
       "npc_name": "아즈사",
@@ -60,25 +60,25 @@
         {
           "grid_id": 1,
           "pool_id": 2200001,
-          "pool_index": 206,
-          "item_id": 5033007,
-          "item_name": "넥타이 샘플",
+          "pool_index": 200,
+          "item_id": 5033001,
+          "item_name": "모자 샘플",
           "nyang_coin_reward": 800
         },
         {
           "grid_id": 2,
           "pool_id": 2200001,
-          "pool_index": 113,
-          "item_id": 5033014,
-          "item_name": "바지 샘플",
-          "nyang_coin_reward": 600
+          "pool_index": 201,
+          "item_id": 5033002,
+          "item_name": "두건 샘플",
+          "nyang_coin_reward": 800
         },
         {
           "grid_id": 3,
           "pool_id": 2200001,
-          "pool_index": 306,
-          "item_id": 5033007,
-          "item_name": "넥타이 샘플",
+          "pool_index": 307,
+          "item_id": 5033008,
+          "item_name": "초커 샘플",
           "nyang_coin_reward": 1000
         }
       ]
