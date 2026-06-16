@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "npcs": [
     {
       "npc_name": "아즈사",
@@ -8,18 +8,18 @@
         {
           "grid_id": 1,
           "pool_id": 2100001,
-          "pool_index": 207,
-          "item_id": 5013034,
-          "item_name": "바삭바삭 에그롤",
-          "nyang_coin_reward": 300
+          "pool_index": 105,
+          "item_id": 5013023,
+          "item_name": "매쉬드 포테이토",
+          "nyang_coin_reward": 200
         },
         {
           "grid_id": 2,
           "pool_id": 2100003,
-          "pool_index": 100,
-          "item_id": 5012001,
-          "item_name": "식초",
-          "nyang_coin_reward": 150
+          "pool_index": 202,
+          "item_id": 5012003,
+          "item_name": "면",
+          "nyang_coin_reward": 200
         }
       ]
     },
@@ -30,26 +30,26 @@
         {
           "grid_id": 1,
           "pool_id": 2100002,
-          "pool_index": 367,
-          "item_id": 5013075,
-          "item_name": "주걱철갑상어 튀김",
-          "nyang_coin_reward": 800
+          "pool_index": 249,
+          "item_id": 5013057,
+          "item_name": "성게알 초밥",
+          "nyang_coin_reward": 600
         },
         {
           "grid_id": 2,
           "pool_id": 2100002,
-          "pool_index": 349,
-          "item_id": 5013057,
-          "item_name": "성게알 초밥",
+          "pool_index": 322,
+          "item_id": 5013029,
+          "item_name": "간장 소스 가자미전",
           "nyang_coin_reward": 800
         },
         {
           "grid_id": 3,
           "pool_id": 2100002,
-          "pool_index": 312,
-          "item_id": 5013015,
-          "item_name": "오징어 숯불구이",
-          "nyang_coin_reward": 800
+          "pool_index": 142,
+          "item_id": 5013050,
+          "item_name": "마늘 멸치 샐러드",
+          "nyang_coin_reward": 350
         }
       ]
     },
@@ -88,7 +88,7 @@
     "verify_status": 1,
     "login_status": 1,
     "main_status": 1,
-    "change_scene_status": 1,
+    "change_scene_status": 25,
     "change_scene_id": 1
   }
 }
