@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "npcs": [
     {
       "npc_name": "아즈사",
@@ -30,26 +30,26 @@
         {
           "grid_id": 1,
           "pool_id": 2100002,
-          "pool_index": 352,
-          "item_id": 5013060,
-          "item_name": "크림 게살볶음",
-          "nyang_coin_reward": 800
+          "pool_index": 210,
+          "item_id": 5013011,
+          "item_name": "송어 매운탕",
+          "nyang_coin_reward": 600
         },
         {
           "grid_id": 2,
           "pool_id": 2100002,
-          "pool_index": 243,
-          "item_id": 5013051,
-          "item_name": "가리비 그라탕",
+          "pool_index": 251,
+          "item_id": 5013059,
+          "item_name": "연어 숯불구이",
           "nyang_coin_reward": 600
         },
         {
           "grid_id": 3,
           "pool_id": 2100002,
-          "pool_index": 329,
-          "item_id": 5013037,
-          "item_name": "해산물 파스타",
-          "nyang_coin_reward": 800
+          "pool_index": 142,
+          "item_id": 5013050,
+          "item_name": "마늘 멸치 샐러드",
+          "nyang_coin_reward": 350
         }
       ]
     },
@@ -60,25 +60,25 @@
         {
           "grid_id": 1,
           "pool_id": 2200001,
-          "pool_index": 314,
-          "item_id": 5033015,
-          "item_name": "치마 샘플",
-          "nyang_coin_reward": 1000
+          "pool_index": 103,
+          "item_id": 5033004,
+          "item_name": "안경 샘플",
+          "nyang_coin_reward": 600
         },
         {
           "grid_id": 2,
           "pool_id": 2200001,
-          "pool_index": 208,
-          "item_id": 5033009,
-          "item_name": "스카프 샘플",
-          "nyang_coin_reward": 800
+          "pool_index": 306,
+          "item_id": 5033007,
+          "item_name": "넥타이 샘플",
+          "nyang_coin_reward": 1000
         },
         {
           "grid_id": 3,
           "pool_id": 2200001,
-          "pool_index": 204,
-          "item_id": 5033005,
-          "item_name": "망토 샘플",
+          "pool_index": 214,
+          "item_id": 5033015,
+          "item_name": "치마 샘플",
           "nyang_coin_reward": 800
         }
       ]
