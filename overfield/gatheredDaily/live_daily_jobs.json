@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "npcs": [
     {
       "npc_name": "아즈사",
@@ -8,17 +8,17 @@
         {
           "grid_id": 1,
           "pool_id": 2100001,
-          "pool_index": 302,
-          "item_id": 5013014,
-          "item_name": "야채 샐러드",
-          "nyang_coin_reward": 500
+          "pool_index": 200,
+          "item_id": 5013007,
+          "item_name": "간장 계란밥",
+          "nyang_coin_reward": 300
         },
         {
           "grid_id": 2,
           "pool_id": 2100003,
-          "pool_index": 203,
-          "item_id": 5012004,
-          "item_name": "후추",
+          "pool_index": 204,
+          "item_id": 5012005,
+          "item_name": "간장",
           "nyang_coin_reward": 200
         }
       ]
@@ -30,26 +30,26 @@
         {
           "grid_id": 1,
           "pool_id": 2100002,
-          "pool_index": 228,
-          "item_id": 5013036,
-          "item_name": "갯농어 국밥",
+          "pool_index": 264,
+          "item_id": 5013072,
+          "item_name": "아슬아슬 복어회",
           "nyang_coin_reward": 600
         },
         {
           "grid_id": 2,
           "pool_id": 2100002,
-          "pool_index": 214,
-          "item_id": 5013018,
-          "item_name": "쫀득한 찰광어찜",
-          "nyang_coin_reward": 600
+          "pool_index": 300,
+          "item_id": 5013034,
+          "item_name": "어둠 요리",
+          "nyang_coin_reward": 800
         },
         {
           "grid_id": 3,
           "pool_id": 2100002,
-          "pool_index": 152,
-          "item_id": 5013060,
-          "item_name": "크림 게살볶음",
-          "nyang_coin_reward": 350
+          "pool_index": 307,
+          "item_id": 5013008,
+          "item_name": "붕어 소금구이",
+          "nyang_coin_reward": 800
         }
       ]
     },
@@ -60,25 +60,25 @@
         {
           "grid_id": 1,
           "pool_id": 2200001,
-          "pool_index": 115,
-          "item_id": 5033016,
-          "item_name": "양말 샘플",
+          "pool_index": 104,
+          "item_id": 5033005,
+          "item_name": "망토 샘플",
           "nyang_coin_reward": 600
         },
         {
           "grid_id": 2,
           "pool_id": 2200001,
-          "pool_index": 312,
-          "item_id": 5033013,
-          "item_name": "장갑 샘플",
-          "nyang_coin_reward": 1000
+          "pool_index": 109,
+          "item_id": 5033010,
+          "item_name": "상의 샘플",
+          "nyang_coin_reward": 600
         },
         {
           "grid_id": 3,
           "pool_id": 2200001,
-          "pool_index": 312,
-          "item_id": 5033013,
-          "item_name": "장갑 샘플",
+          "pool_index": 310,
+          "item_id": 5033011,
+          "item_name": "손목 커버 샘플",
           "nyang_coin_reward": 1000
         }
       ]
