@@ -1,0 +1,20 @@
+name: build FVList Data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "vrchat/ProjectFV/BaseFile/FVBase.csv"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: fvlist-publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    uses: Vrcticfox/FVListWorker/.github/workflows/build-fvlist-data.yml@main
